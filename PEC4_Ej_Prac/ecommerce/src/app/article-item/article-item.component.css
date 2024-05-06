@@ -1,0 +1,45 @@
+
+
+.article{
+    width: auto;
+    height: 400px;
+
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+    padding: 30px;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.enVenta{
+    background-color: rgb(165, 222, 165);
+}
+
+.noEnVenta{
+    background-color: rgb(180, 95, 95);
+}
+
+.precioVenta{
+    color: black;
+}
+
+.precioNoVenta{
+    color: grey;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+button{
+    padding: 2px;
+    margin: 5px;
+}
