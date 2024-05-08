@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { ArticleModule } from './article-item/article.module';
+import { ArticleModule } from './article.module';
 import { CommonModule } from '@angular/common';
 
 
